@@ -1,12 +1,19 @@
-## Hi there 👋
 
-<!--
 
-**Here are some ideas to get you started:**
+# Welcome to [Agentkube](https://agentkube.com/) 👋
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+![Agent Kube Home](https://github.com/user-attachments/assets/e8d1009c-378e-4922-9e5b-3fe183a9fab3)
+
+
+Your AI-powered companion for Kubernetes that makes cluster management effortless and efficient. Agentkube combines the power of artificial intelligence with deep Kubernetes expertise to automate routine tasks, accelerate troubleshooting, and optimize cluster operations.
+
+### Links
+
+- [Website](https://agentkube.com)
+- [Documentation](https://docs.agentkube.com)
+- [X @agentkube](https://x.com/agentkube)
+
+### Development Guide
+- [Development Guide](/)
+- [Local Setup](/)
+- [Testing Guide](/)
