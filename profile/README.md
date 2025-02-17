@@ -5,7 +5,8 @@
 ![Agent Kube Home](https://github.com/user-attachments/assets/e8d1009c-378e-4922-9e5b-3fe183a9fab3)
 
 
-Your AI-powered companion for Kubernetes that makes cluster management effortless and efficient. Agentkube combines the power of artificial intelligence with deep Kubernetes expertise to automate routine tasks, accelerate troubleshooting, and optimize cluster operations.
+Agentkube is an AI-powered Kubernetes management platform that bridges the gap between developers and complex cluster operations. It simplifies Kubernetes adoption by automating cluster management, investigating issues, and providing intelligent solutions - all through an intuitive interface that speaks your language.
+
 
 ### Links
 
