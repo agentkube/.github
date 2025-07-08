@@ -13,8 +13,3 @@ Agentkube is an AI-powered Kubernetes management platform that bridges the gap b
 - [Website](https://agentkube.com)
 - [Documentation](https://docs.agentkube.com)
 - [X @agentkube](https://x.com/agentkube)
-
-### Development Guide
-- [Development Guide](/)
-- [Local Setup](/)
-- [Testing Guide](/)
