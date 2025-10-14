@@ -11,7 +11,10 @@
 ### Links
 
 - [Website](https://agentkube.com)
+- [Blogs](https://agentkube.com/blogs)
 - [Documentation](https://docs.agentkube.com)
 - [X @agentkube](https://x.com/agentkube)
 - [Youtube](https://www.youtube.com/@agentkube)
+- [Releases](https://github.com/agentkube/agentkube/releases)
+- [Changelog](https://docs.agentkube.com/changelog)
 - [Download Now](https://agentkube.com/downloads) - Available on MacOS and Windows
