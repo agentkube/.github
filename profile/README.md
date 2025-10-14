@@ -7,7 +7,6 @@
 
 > Agentkube is an AI-powered Kubernetes management IDE, that bridges the gap between developers and complex cluster operations. It simplifies Kubernetes adoption by automating cluster management, investigating issues, and providing intelligent solutions - all through an intuitive interface that speaks your language.
 
-[1](https://github.com/agentkube/.github/edit/main/profile/README.md)
 
 ### Links
 
