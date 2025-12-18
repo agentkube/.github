@@ -17,7 +17,7 @@
 - [Youtube](https://www.youtube.com/@agentkube)
 - [Releases](https://github.com/agentkube/agentkube/releases)
 - [Changelog](https://docs.agentkube.com/changelog)
-- [Download Now](https://agentkube.com/downloads) - Available on MacOS and Windows
+- [Download Now](https://agentkube.com/downloads) - Available on MacOS, Windows and Linux.
 
 
 
